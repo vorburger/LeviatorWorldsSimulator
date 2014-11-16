@@ -1,0 +1,20 @@
+LeviatorWorldsSimulator TODO
+
+* men/women => child
+* random death and birth - within range
+* money
+
+* 1.0
+* push GitHub, Blog, Tweet, G+, LinkedIn
+
+* Graphing via XLS, simple CSv export
+
+* Services
+* REST API - Sculptor? Spring REST?
+
+* AngularJS Bootstrap UI - SIMPLE, just flat list of parameters, RUN> and Console
+
+* configurable business rules, without full compilation, read SOME of the classes from DB.. look at old Worlds idea - use Xtend compiler?
+ 
+* AngularJS graphing
+ 
